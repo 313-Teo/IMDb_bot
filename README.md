@@ -13,6 +13,6 @@ Come far funzionare il bot di Telegram:
    - tutte le librerie necessarie per far funzionare il bot sono scaricate all'interno del progetto
   
      (in caso di problemi relativi alle librerie scaricare le librerie "mysql.connector.j" e "slf4j.nop" da Maven
-         e TelegramBots6.jar allegata nella repository)
+         e TelegramBots6.jar da Java allegata nella repository)
 6. Avviare il bot nella la pagina Main.java del progetto
 7. Cercare "Biasiolo5CII" o @IrishIMDbbot su Telegram
