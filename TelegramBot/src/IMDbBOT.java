@@ -118,7 +118,6 @@ class IMDbBOT extends TelegramLongPollingBot {
                     execute(moviesSendMessage);
 
                     moviesMessage.setLength(0);
-                    moviesMessage.append(title);
                 }
 
                 moviesMessage.append(movieInfo);
